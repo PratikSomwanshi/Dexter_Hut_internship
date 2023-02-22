@@ -20,7 +20,7 @@ const ImageDetail = () => {
                 height: "100vh",
                 position: "relative",
             }}>
-            <Typography>Name : Pratik Somwanshi</Typography>
+            
             <Box
                 sx={{
                     position: "absolute",
